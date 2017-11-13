@@ -1,0 +1,14 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="" />
+    <EXCLUDED_PACKAGE NAME="*.ebeaninternal.*" />
+    <EXCLUDED_PACKAGE NAME="*.repackaged.*" />
+    <EXCLUDED_PACKAGE NAME="antl.collections.*" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.*" />
+    <EXCLUDED_PACKAGE NAME="in.ashwanthkumar.utlis.*" />
+    <EXCLUDED_PACKAGE NAME="java.awt.*" />
+    <EXCLUDED_PACKAGE NAME="javax.swing.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.lang.*" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.mapping.*" />
+  </component>
+</application>
