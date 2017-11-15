@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../cloudmc-cloudstack-plugin/src/main/java/com/cloudops/mc/plugin/iaas/cloudstack/operations/firewallrules/CreateFirewallRule.java - [cloudmc-cloudstack-plugin]'" />
+    <option name="defaultScopeName" value="File '.../cloudmc-cloudstack-plugin/src/main/java/com/cloudops/mc/plugin/iaas/cloudstack/operations/firewallrules/CreateFirewallRule.java - [cloudmc-cloudstack-plugin]'" />
+    <option name="SEARCH_SCOPE" value="File '.../cloudmc-cloudstack-plugin/src/main/java/com/cloudops/mc/plugin/iaas/cloudstack/operations/firewallrules/CreateFirewallRule.java - [cloudmc-cloudstack-plugin]'" />
   </component>
 </application>
