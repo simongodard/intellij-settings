@@ -22,9 +22,9 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="272822" />
+    <option name="GUTTER_BACKGROUND" value="212121" />
     <option name="INDENT_GUIDE" value="757575" />
-    <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
+    <option name="LINE_NUMBERS_COLOR" value="a5a59f" />
     <option name="METHOD_SEPARATORS_COLOR" value="3e3d32" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
@@ -536,6 +536,12 @@
         <option name="FOREGROUND" value="efc090" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a710a6" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d9e577" />
@@ -549,7 +555,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="272822" />
+        <option name="BACKGROUND" value="212121" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
