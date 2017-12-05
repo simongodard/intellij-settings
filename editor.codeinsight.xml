@@ -1,14 +1,21 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="" />
     <EXCLUDED_PACKAGE NAME="*.ebeaninternal.*" />
     <EXCLUDED_PACKAGE NAME="*.repackaged.*" />
     <EXCLUDED_PACKAGE NAME="antl.collections.*" />
     <EXCLUDED_PACKAGE NAME="com.google.api.client.util.*" />
+    <EXCLUDED_PACKAGE NAME="com.google.common.collect.Maps.toMap" />
+    <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.api.message.MessageContextFactory.toMap" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom" />
     <EXCLUDED_PACKAGE NAME="in.ashwanthkumar.utlis.*" />
     <EXCLUDED_PACKAGE NAME="java.awt.*" />
     <EXCLUDED_PACKAGE NAME="javax.swing.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.collections.MapUtils.toMap" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.lang.*" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.lang3.ArrayUtils.toMap" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.mapping.*" />
   </component>
 </application>
