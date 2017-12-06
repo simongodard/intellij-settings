@@ -16,6 +16,7 @@
     <EXCLUDED_PACKAGE NAME="org.apache.commons.collections.MapUtils.toMap" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.lang.*" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.lang3.ArrayUtils.toMap" />
+    <EXCLUDED_PACKAGE NAME="org.apache.tools.ant.taskdefs" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.mapping.*" />
   </component>
 </application>
