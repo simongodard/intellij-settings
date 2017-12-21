@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
-      <removed_mapping pattern="Jenkinsfile" type="Jenkins file" />
+      <mapping ext="ftl" type="HTML" />
     </extensionMap>
   </component>
 </application>
