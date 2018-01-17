@@ -27,6 +27,15 @@
       <mask>*.j</mask>
       <mask>*.jso</mask>
       <mask>*</mask>
+      <mask>e*.json</mask>
+      <mask>es*.json</mask>
+      <mask>es/**.json</mask>
+      <mask>es/**/*.json</mask>
+      <mask>es/*/*.json</mask>
+      <mask>es//*.json</mask>
+      <mask>es/*.json</mask>
+      <mask>e/*.json</mask>
+      <mask>/*.json</mask>
       <mask>*.json</mask>
     </recentFileMasks>
   </component>
