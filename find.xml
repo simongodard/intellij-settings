@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,13 +19,8 @@
       <mask>*.mml</mask>
       <mask>*.ml</mask>
       <mask>*ml</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.ht</mask>
       <mask>*.htm</mask>
-      <mask>*.j</mask>
-      <mask>*.jso</mask>
-      <mask>*</mask>
       <mask>e*.json</mask>
       <mask>es*.json</mask>
       <mask>es/**.json</mask>
@@ -37,6 +31,11 @@
       <mask>e/*.json</mask>
       <mask>/*.json</mask>
       <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
