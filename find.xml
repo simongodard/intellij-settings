@@ -5,8 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.htm,*.html" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
@@ -28,7 +28,6 @@
       <mask>e/*.json</mask>
       <mask>/*.json</mask>
       <mask>*.jso</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*</mask>
@@ -36,6 +35,8 @@
       <mask>es</mask>
       <mask>es/**.json</mask>
       <mask>*.json</mask>
+      <mask>*.js</mask>
+      <mask>*.htm,*.html</mask>
     </recentFileMasks>
   </component>
 </application>
