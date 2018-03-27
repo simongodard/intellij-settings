@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonarqube.cloudops.net" />
+          <token>dfc8df9fdf9edf9fdf92df99df9fdf98dfc9df98dfccdf9bdfcedfcfdfccdf9fdf93df9edf9fdfc8df9edfcedf9cdf98df92dfccdfccdf9fdf9adfccdfc9df9bdfc9df99dfccdfc9df9bdf9adf9adf93</token>
+          <option name="name" value="Sonarqube Dev" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
