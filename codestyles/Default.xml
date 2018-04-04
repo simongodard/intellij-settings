@@ -1,14 +1,8 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="3" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
       <option name="TAB_SIZE" value="3" />
-      <option name="USE_TAB_CHARACTER" value="false" />
-      <option name="SMART_TABS" value="false" />
-      <option name="LABEL_INDENT_SIZE" value="0" />
-      <option name="LABEL_INDENT_ABSOLUTE" value="false" />
-      <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
@@ -51,6 +45,30 @@
       </value>
     </option>
   </GroovyCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1000" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value />
+    </option>
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <emptyLine />
+        <package name="" withSubpackages="true" static="true" />
+        <emptyLine />
+        <package name="java" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="javax" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="com" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="false" />
+        <emptyLine />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <indentOptions>
       <option name="INDENT_SIZE" value="3" />
@@ -71,6 +89,12 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="TAB_SIZE" value="3" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="XML">
     <indentOptions>
       <option name="INDENT_SIZE" value="3" />
       <option name="TAB_SIZE" value="3" />
