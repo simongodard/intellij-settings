@@ -83,6 +83,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
+    <option name="IF_BRACE_FORCE" value="3" />
     <indentOptions>
       <option name="INDENT_SIZE" value="3" />
       <option name="TAB_SIZE" value="3" />
