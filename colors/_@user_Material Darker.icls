@@ -4,7 +4,7 @@
     <property name="created">2017-11-09T08:07:54</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2017-11-09T11:54:53</property>
+    <property name="modified">2018-06-21T13:24:19</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -20,6 +20,7 @@
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
+    <option name="ANNOTATIONS_COLOR" value="0" />
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="181818" />
@@ -63,6 +64,11 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="303030" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="292929" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="ffc25b" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="d16e38" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="d14b3c" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="9aa573" />
     <option name="WHITESPACES" value="616161" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d9f5dd" />
   </colors>
