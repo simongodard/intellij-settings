@@ -4,6 +4,7 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="ftl" type="HTML" />
       <mapping ext="24_2018-04-05" type="PLAIN_TEXT" />
+      <mapping ext="1_2018-09-19" type="PLAIN_TEXT" />
       <mapping ext="4_2018-04-05" type="PLAIN_TEXT" />
       <mapping ext="2_2018-01-24" type="PLAIN_TEXT" />
       <mapping ext="3_2018-03-23" type="PLAIN_TEXT" />
