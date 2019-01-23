@@ -8,6 +8,7 @@
     <EXCLUDED_PACKAGE NAME="com.google.api.client.util.*" />
     <EXCLUDED_PACKAGE NAME="com.google.common.collect.Maps.toMap" />
     <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.List" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.ws.api.message.MessageContextFactory.toMap" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom" />
     <EXCLUDED_PACKAGE NAME="in.ashwanthkumar.utlis.*" />
