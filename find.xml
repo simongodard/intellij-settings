@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="File '.../cloudmc-ucpemgr-plugin/src/main/java/com/cloudops/mc/plugin/ucpemgr/ucpe/UcpeFetcher.java [cloudmc-ucpemgr-plugin]'" />
+    <option name="defaultScopeName" value="File '.../cloudmc-ucpemgr-plugin/src/main/java/com/cloudops/mc/plugin/ucpemgr/ucpe/UcpeFetcher.java [cloudmc-ucpemgr-plugin]'" />
+    <option name="SEARCH_SCOPE" value="File '.../cloudmc-ucpemgr-plugin/src/main/java/com/cloudops/mc/plugin/ucpemgr/ucpe/UcpeFetcher.java [cloudmc-ucpemgr-plugin]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
