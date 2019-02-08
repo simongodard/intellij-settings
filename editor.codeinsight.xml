@@ -5,6 +5,7 @@
     <EXCLUDED_PACKAGE NAME="*.ebeaninternal.*" />
     <EXCLUDED_PACKAGE NAME="*.repackaged.*" />
     <EXCLUDED_PACKAGE NAME="antl.collections.*" />
+    <EXCLUDED_PACKAGE NAME="com.cloudops.mc.plugin.ucpemgr.util.VnfFields.name" />
     <EXCLUDED_PACKAGE NAME="com.google.api.client.util.*" />
     <EXCLUDED_PACKAGE NAME="com.google.common.collect.Maps.toMap" />
     <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections" />
